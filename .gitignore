@@ -2,7 +2,7 @@
 #.vscode
 .env
 data/db
-__pycache__
+matplotlib_contrib/__pycache__
 
 ## File formats to ignore
 *.pyc
