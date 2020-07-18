@@ -1,0 +1,22 @@
+## folders to ignore
+#.vscode
+.env
+data/db
+__pycache__
+
+## File formats to ignore
+*.pyc
+*.log
+*.ipynb_checkpoints
+
+## Preparatory Files: LaTeX
+*.md.tex
+
+# DONOT exclude these:
+# !.env/INFO.md
+# !.vscode/*.md
+# !.vscode/*.json
+# !.vscode/*.py
+# !.vscode/export
+# !data/scripts/*
+# !data/building_blocks/*
