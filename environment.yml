@@ -29,6 +29,7 @@ dependencies:
   - matplotlib # -c conda-forge, anaconda
   - ipympl # -c conda-forge
   - plotly # -c conda-forge
+  - seaborn # -c conda-forge
   #- bokeh # -c conda-forge, anaconda
   - jupyter # -c anaconda, conda-forge
   - jupyterlab # -c anaconda, conda-forge
